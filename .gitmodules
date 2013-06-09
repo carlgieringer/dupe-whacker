@@ -1,0 +1,3 @@
+[submodule "python-sha3"]
+	path = python-sha3
+	url = https://github.com/bjornedstrom/python-sha3.git
